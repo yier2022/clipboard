@@ -5,7 +5,7 @@ compatibility_date = "2024-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "clipboard-db"
-database_id = "YOUR_DATABASE_ID"  # 请在部署时替换为实际的D1数据库ID
+database_id = "deb0054f-25c2-4cef-b72e-60f54491c4cb"  # 请在部署时替换为实际的D1数据库ID
 
 # 环境变量（在Cloudflare Pages设置中配置）
 # AUTH_PASSWORD = "your-secure-password"  # 不要在这里设置，请在CF Pages环境变量中配置
